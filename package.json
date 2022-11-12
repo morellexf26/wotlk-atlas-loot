@@ -1,0 +1,22 @@
+{
+  "name": "wotlk-atlas-loot",
+  "version": "1.0.0",
+  "description": "An Android & iOS mobile app to search your WOTLK loot on your raid days",
+  "main": "index.js",
+  "scripts": {
+    "test-db": "node scripts/db"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morellexf26/wotlk-atlas-loot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morellexf26/wotlk-atlas-loot/issues"
+  },
+  "homepage": "https://github.com/morellexf26/wotlk-atlas-loot#readme",
+  "dependencies": {
+    "wow-classic-items": "github:morellexf26/wow-classic-items"
+  }
+}
