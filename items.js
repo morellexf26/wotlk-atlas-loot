@@ -1,4 +1,4 @@
-const items = require("./data/items.json");
+const items = require("../data/items.json");
 
 // const bossDropItems = items.filter(item => item.source && item.source.category == "Boss Drop");
 

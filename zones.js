@@ -1,4 +1,4 @@
-const zones = require("./data/zones.json");
+const zones = require("../data/zones.json");
 
 export const getNorthrendRaids = () =>
   zones.filter(
